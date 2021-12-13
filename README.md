@@ -23,4 +23,5 @@
 ## Results
 
 - We decided to go take a trip to Brazil as the chosen cities fit our temperature requirements. Specifically to the cities of Sao Jose da Coroa Grande, Cassilandia, Castro, and Arrail do Cabo. 
-https://github.com/FrancisVuong/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png?raw=true
+![image](https://user-images.githubusercontent.com/92435456/145754102-1d5c3a9d-116a-4bda-8cbd-4535aaaa1f0e.png)
+
